@@ -33,7 +33,7 @@ Rush02: (Succeeded: 0%)
 
 🛠️ How to Use This Repository
 
-Clone the repository:  git clone https://github.com/your-username/your-repo-name.git
+Clone the repository:  git clone https://github.com/lucabarbosa/42_piscine_SP.git
 
 
 Navigate to the desired exercise folder (e.g., C01, Shell00, etc.).
