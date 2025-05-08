@@ -1,4 +1,5 @@
 42 Piscine Exercises Repository
+
 Welcome to my 42 Piscine repository! This project archives all the exercises and projects I completed during the intensive 42 School Piscine coding in São Paulo - Brazil.
 Here, you'll find my solutions for the Shell and C exercises, as well as the Rush projects, showcasing my progress and learning journey.
 
